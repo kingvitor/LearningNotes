@@ -6,4 +6,5 @@ Java 代码单元测试工具：jacoco
 
 Oracle 生成报告：awrrpt 分析数据库压力
 
-PostgreSql 库在线文档：https://www.postgresql.org/docs/15/index.html
+PostgreSql 库在线文档：https://www.postgresql.org/docs/15/index.html  
+           中文文档：http://www.postgres.cn/v2/document
