@@ -2,9 +2,16 @@ Java  jdk19 API 在线文档：https://docs.oracle.com/en/java/javase/19/docs/ap
 
 Java jvm 在线文档：https://docs.oracle.com/javase/specs/index.html
 
-Java 代码单元测试工具：jacoco
+Java 代码单元测试工具：JaCoCo是一个开源的覆盖率工具(官网地址:http://www.eclemma.org/JaCoCo/),它针对的开发语言是java,其使用方法很灵活,可以嵌入到Ant、Maven中
 
 Oracle 生成报告：awrrpt 分析数据库压力
 
 PostgreSql 库在线文档：https://www.postgresql.org/docs/15/index.html  
            中文文档：http://www.postgres.cn/v2/document
+
+Jenkins ：Jenkins是一个开源软件项目，是基于Java开发的一种持续集成工具，用于监控持续重复的工作，旨在提供一个开放易用的软件平台，使软件项目可以进行持续集成
+
+Guava　：Guava 是一套来自Google的核心Java库，其中包括新的集合类型（如multimap和multiset）、不可变的集合、图库，以及并发、I/O、散列、缓存、基元、字符串等实用工具
+
+GitLab ： GitLab 是一个用于仓库管理系统的开源项目，使用Git作为代码管理工具，并在此基础上搭建起来的Web服务。安装方法是参考GitLab在GitHub上的Wiki页面
+
