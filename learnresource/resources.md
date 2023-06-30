@@ -7,7 +7,10 @@ Java 代码单元测试工具：JaCoCo是一个开源的覆盖率工具(官网�
 Oracle 生成报告：awrrpt 分析数据库压力
 
 PostgreSql 库在线文档：https://www.postgresql.org/docs/15/index.html  
-           中文文档：http://www.postgres.cn/v2/document
+           中文文档：http://postgres.cn/docs/14/index.html
+
+Spring 官网：https://spring.io/
+       中文文档：https://springref.com/
 
 Jenkins ：Jenkins是一个开源软件项目，是基于Java开发的一种持续集成工具，用于监控持续重复的工作，旨在提供一个开放易用的软件平台，使软件项目可以进行持续集成
 
