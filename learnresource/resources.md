@@ -9,6 +9,9 @@ Oracle 生成报告：awrrpt 分析数据库压力
 PostgreSql 库在线文档：https://www.postgresql.org/docs/15/index.html  
            中文文档：http://postgres.cn/docs/14/index.html
 
+MySql 在线文档：https://dev.mysql.com/doc/refman/8.0/en/
+      中文文档：[https://mysql.net.cn/](https://mysql.net.cn/doc/refman/8.0/en/)
+
 Spring 官网：https://spring.io/
        中文文档：https://springref.com/
 
