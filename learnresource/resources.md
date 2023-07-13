@@ -19,10 +19,12 @@ Redis ：
 Redis 客户端：https://github.com/tporadowski/redis/releases
 Redisson : 
 
+Zookeeper 客户端：部分功能收费http://www.redisant.cn/za  开源：https://github.com/vran-dev/PrettyZoo/releases  官方：https://issues.apache.org/jira/secure/attachment/12436620/ZooInspector.zip
+
 Jenkins ：Jenkins是一个开源软件项目，是基于Java开发的一种持续集成工具，用于监控持续重复的工作，旨在提供一个开放易用的软件平台，使软件项目可以进行持续集成
 
 Guava　：Guava 是一套来自Google的核心Java库，其中包括新的集合类型（如multimap和multiset）、不可变的集合、图库，以及并发、I/O、散列、缓存、基元、字符串等实用工具
 
 GitLab ： GitLab 是一个用于仓库管理系统的开源项目，使用Git作为代码管理工具，并在此基础上搭建起来的Web服务。安装方法是参考GitLab在GitHub上的Wiki页面
 
-开发者工具下载：https://apps.microsoft.com/store/apps
+微软开发者工具下载：https://apps.microsoft.com/store/apps
