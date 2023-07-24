@@ -6,6 +6,8 @@ Java 代码单元测试工具：JaCoCo是一个开源的覆盖率工具(官网�
 
 Oracle 生成报告：awrrpt 分析数据库压力
 
+Linux 学习：https://ipcmen.com/ls  https://linux.cn/share/  https://www.linuxcool.com/  https://www.linux.org/  https://www.runoob.com/linux/linux-command-manual.html
+
 PostgreSql 库在线文档：https://www.postgresql.org/docs/15/index.html  
            中文文档：http://postgres.cn/docs/14/index.html
 
