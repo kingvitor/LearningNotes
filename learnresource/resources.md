@@ -17,6 +17,8 @@ MySql 在线文档：https://dev.mysql.com/doc/refman/8.0/en/
 Spring 官网：https://spring.io/
        中文文档：https://springref.com/
 
+终端连接工具：https://github.com/electerm/electerm   https://mobaxterm.mobatek.net/download-home-edition.html  （mobaxterm）
+
 Redis ：
 Redis 客户端：https://github.com/tporadowski/redis/releases
 Redisson : 
@@ -30,3 +32,4 @@ Guava　：Guava 是一套来自Google的核心Java库，其中包括新的集�
 GitLab ： GitLab 是一个用于仓库管理系统的开源项目，使用Git作为代码管理工具，并在此基础上搭建起来的Web服务。安装方法是参考GitLab在GitHub上的Wiki页面
 
 微软开发者工具下载：https://apps.microsoft.com/store/apps
+
