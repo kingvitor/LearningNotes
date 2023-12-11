@@ -34,3 +34,9 @@ GitLab ： GitLab 是一个用于仓库管理系统的开源项目，使用Git�
 微软开发者工具下载：https://apps.microsoft.com/store/apps
 
 数据结构可视化网站：https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+
+IDEA 激活教程: 1、 打开https://3.jetbra.in/  2、进入hardbin.com网站  3、下载Download jetbra.zip 文件 4、按压缩包的readme.txt文件进行配置（或者使用readme.txt文件下的新方法使用脚本运行）
+              5、示例：-javaagent:C:/Java/copy/jetbraja-netfilter.jar=jetbrains
+                      --add-opens=java.base/jdk.internal.org.objectweb.asm=ALL-UNNAMED
+                      --add-opens=java.base/jdk.internal.org.objectweb.asm.tree=ALL-UNNAMED
+              6、重启电脑  7、输入hardbin.com网站下的idea注册码
