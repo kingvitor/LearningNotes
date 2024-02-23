@@ -40,3 +40,5 @@ IDEA 激活教程: 1、 打开https://3.jetbra.in/  2、进入hardbin.com网站 
                       --add-opens=java.base/jdk.internal.org.objectweb.asm=ALL-UNNAMED
                       --add-opens=java.base/jdk.internal.org.objectweb.asm.tree=ALL-UNNAMED
               6、重启电脑  7、输入hardbin.com网站下的idea注册码
+
+PhotoShop 下载安装：[https://www.qijishow.com/](https://www.qijishow.com/down/index.html)https://www.qijishow.com/down/index.html   
