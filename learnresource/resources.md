@@ -41,4 +41,6 @@ IDEA 激活教程: 1、 打开https://3.jetbra.in/  2、进入hardbin.com网站 
                       --add-opens=java.base/jdk.internal.org.objectweb.asm.tree=ALL-UNNAMED
               6、重启电脑  7、输入hardbin.com网站下的idea注册码
 
-PhotoShop 下载安装：[https://www.qijishow.com/](https://www.qijishow.com/down/index.html)https://www.qijishow.com/down/index.html   
+PhotoShop 下载安装：[https://www.qijishow.com/](https://www.qijishow.com/down/index.html)https://www.qijishow.com/down/index.html  
+
+VMWare 安装CentOS 7 访问不了网络：https://blog.csdn.net/qq_43719791/article/details/132780964
