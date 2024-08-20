@@ -45,4 +45,6 @@ PhotoShop 下载安装：[https://www.qijishow.com/](https://www.qijishow.com/do
 
 VMWare 安装CentOS 7 访问不了网络：https://blog.csdn.net/qq_43719791/article/details/132780964
 
-Docker镜像地址：https://hub.atomgit.com/
+Docker镜像地址：
+地址1：https://hub.atomgit.com/  
+地址2：https://docker.m.daocloud.io  示例： docker run -d -P m.daocloud.io/docker.io/library/nginx
