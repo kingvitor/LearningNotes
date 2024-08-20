@@ -47,4 +47,4 @@ VMWare 安装CentOS 7 访问不了网络：https://blog.csdn.net/qq_43719791/art
 
 Docker镜像地址：
 地址1：https://hub.atomgit.com/  
-地址2：https://docker.m.daocloud.io  示例： docker run -d -P m.daocloud.io/docker.io/library/nginx
+地址2：https://docker.m.daocloud.io（https://m.daocloud.io/docker.io）  示例： docker run -d -P m.daocloud.io/docker.io/library/nginx
