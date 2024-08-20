@@ -44,3 +44,5 @@ IDEA 激活教程: 1、 打开https://3.jetbra.in/  2、进入hardbin.com网站 
 PhotoShop 下载安装：[https://www.qijishow.com/](https://www.qijishow.com/down/index.html)https://www.qijishow.com/down/index.html  
 
 VMWare 安装CentOS 7 访问不了网络：https://blog.csdn.net/qq_43719791/article/details/132780964
+
+Docker镜像地址：https://hub.atomgit.com/
