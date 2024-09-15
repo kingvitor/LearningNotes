@@ -50,3 +50,7 @@ UBuntux下载地址：https://cn.ubuntu.com/download
 Docker镜像地址：
 地址1：https://hub.atomgit.com/  
 地址2：https://docker.m.daocloud.io（https://m.daocloud.io/docker.io）  示例： docker run -d -P m.daocloud.io/docker.io/library/nginx
+
+查询可用的ChatGPT站点：1、打开网址：https://fofa.info/ 2、搜索框内输入：title="chatgpt web" && country="US" && region="California" && title=="ChatGPT Web"
+
+CentOS镜像地址，Docker镜像地址都可以通过阿里云查询到
