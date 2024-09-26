@@ -54,3 +54,5 @@ Docker镜像地址：
 查询可用的ChatGPT站点：1、打开网址：https://fofa.info/ 2、搜索框内输入：title="chatgpt web" && country="US" && region="California" && title=="ChatGPT Web"
 
 CentOS镜像地址，Docker镜像地址都可以通过阿里云查询到
+
+翻译工具：https://www.deepl.com/zh/translator
