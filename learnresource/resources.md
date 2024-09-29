@@ -47,6 +47,9 @@ VMWare 安装CentOS 7 访问不了网络：https://blog.csdn.net/qq_43719791/art
 
 UBuntux下载地址：https://cn.ubuntu.com/download
 
+CentOS 仓库地址：
+地址：https://mirrors.aliyun.com/repo/
+
 Docker镜像地址：
 地址1：https://hub.atomgit.com/  
 地址2：https://docker.m.daocloud.io（https://m.daocloud.io/docker.io）  示例： docker run -d -P m.daocloud.io/docker.io/library/nginx
