@@ -17,8 +17,6 @@ MySql 在线文档：https://dev.mysql.com/doc/refman/8.0/en/
 Spring 官网：https://spring.io/
        中文文档：https://springref.com/
 
-终端连接工具：https://github.com/electerm/electerm   https://mobaxterm.mobatek.net/download-home-edition.html  （mobaxterm）
-
 Redis ：
 Redis 客户端：https://github.com/tporadowski/redis/releases
 Redisson : 
@@ -71,3 +69,5 @@ API调用工具：Postman
 文件对比工具：Beyond Compare 4 （可反编译class文件对比差异：beyond compare 对class文件反编译及比较（https://www.cnblogs.com/smdq/p/9606010.html））
 
 翻墙工具：Clash.Verge_1.7.6_x64-setup （github搜机场测评）
+
+终端连接工具：https://github.com/electerm/electerm   https://mobaxterm.mobatek.net/download-home-edition.html  （mobaxterm）
