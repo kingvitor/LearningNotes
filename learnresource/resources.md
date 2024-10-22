@@ -73,3 +73,5 @@ API调用工具：Postman
 终端连接工具：https://github.com/electerm/electerm   https://mobaxterm.mobatek.net/download-home-edition.html  （mobaxterm）
 
 PPT插件：iSlide
+
+idea 插件：翻译插件（Translation、TONGYI Lingma（通义灵码）、A8Translate）
