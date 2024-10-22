@@ -71,3 +71,5 @@ API调用工具：Postman
 翻墙工具：Clash.Verge_1.7.6_x64-setup （github搜机场测评）
 
 终端连接工具：https://github.com/electerm/electerm   https://mobaxterm.mobatek.net/download-home-edition.html  （mobaxterm）
+
+PPT插件：iSlide
