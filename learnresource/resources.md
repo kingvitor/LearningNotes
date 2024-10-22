@@ -59,3 +59,7 @@ Docker镜像地址：
 CentOS镜像地址，Docker镜像地址都可以通过阿里云查询到
 
 翻译工具：https://www.deepl.com/zh/translator
+
+截图工具：Snipaste 
+
+录制工具：LICEcap、ScreenToGif
