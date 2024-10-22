@@ -67,3 +67,5 @@ CentOS镜像地址，Docker镜像地址都可以通过阿里云查询到
 VPN工具：OpenVPN GUI
 
 API调用工具：Postman
+
+文件对比工具：Beyond Compare 4 （可反编译class文件对比差异：beyond compare 对class文件反编译及比较（https://www.cnblogs.com/smdq/p/9606010.html））
