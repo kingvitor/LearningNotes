@@ -66,6 +66,12 @@ VPN工具：OpenVPN GUI
 
 API调用工具：Postman
 
+单元测试工具（mockito） ：使用手册：https://javadoc.io/static/org.mockito/mockito-core/4.8.0/org/mockito/Mockito.html 
+
+https://javadoc.io/ 可查看开源项目类说明
+
+构建工具（maven）: https://search.maven.org
+
 文件对比工具：Beyond Compare 4 （可反编译class文件对比差异：beyond compare 对class文件反编译及比较（https://www.cnblogs.com/smdq/p/9606010.html））
 
 翻墙工具：Clash.Verge_1.7.6_x64-setup （github搜机场测评）
